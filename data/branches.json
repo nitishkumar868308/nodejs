@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "branchCode": "BR001",
+      "branchName": "Delhi Main Branch",
+      "branchCity": "Delhi",
+      "branchState": "Delhi",
+      "latitude": 28.7041,
+      "longitude": 77.1025
+    },
+    {
+      "id": 2,
+      "branchCode": "BR002",
+      "branchName": "Mumbai Central Branch",
+      "branchCity": "Mumbai",
+      "branchState": "Maharashtra",
+      "latitude": 19.076,
+      "longitude": 72.8777
+    },
+    {
+      "id": 3,
+      "branchCode": "BR003",
+      "branchName": "Bangalore North Branch",
+      "branchCity": "Bangalore",
+      "branchState": "Karnataka",
+      "latitude": 12.9716,
+      "longitude": 77.5946
+    },
+    {
+      "id": 4,
+      "branchCode": "BR004",
+      "branchName": "Chennai West Branch",
+      "branchCity": "Chennai",
+      "branchState": "Tamil Nadu",
+      "latitude": 13.0827,
+      "longitude": 80.2707
+    }
+  ]
+  
